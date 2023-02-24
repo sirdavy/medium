@@ -5,3 +5,5 @@
  https://medium.com/me/stories/public
 
  import a story
+ 
+ https://sirdavy.github.io/medium/[postname].html
